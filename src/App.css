@@ -1,0 +1,20 @@
+  body{
+
+      margin: 0px;
+      padding: 0px;
+  }
+  h1{
+      text-align: center;
+      padding: 20px;
+      margin: 10px;
+      background-color: cadetblue;
+  }
+  p{
+      margin: 10px;
+      padding: 10px;
+      text-align: center;
+      background-color: blue;
+  }
+  a{
+      align-items: center;
+  }
